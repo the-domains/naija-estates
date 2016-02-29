@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[naija-estates]]></title>
+        <description><![CDATA[naija-estates]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 20:41:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Urban Planning Practice in Nigeria]]></title>
+            <description><![CDATA[<article><h1>Urban Planning Practice in Nigeria</h1><p>Urban planning in Nigeria has been a piece meal approach, city wide planning is seldom and at National level there seem to be no appetite to prepare plans or guidelines for urban planning in the country. The planning legislation in Nigeria is very robust (Decree No. 12 of 1992) and needs plans and guidelines to implement the legislation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b015a48a0069c84e6437af7a68a9d04bfda362.jpg"></article>]]></description>
+            <link>undefinedurban-planning-practice-in-nigeria/index.html</link>
+            <guid isPermaLink="false">866ac1bf-03eb-4972-ab5d-5a37e0220e58</guid>
+            <pubDate>Mon, 29 Feb 2016 20:40:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
