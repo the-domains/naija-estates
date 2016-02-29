@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-29T20:40:50.521Z'
-dateModified: '2016-02-29T20:33:25.590Z'
+datePublished: '2016-02-29T21:25:52.247Z'
+dateModified: '2016-02-29T21:25:51.811Z'
 title: Urban Planning Practice in Nigeria
 author: []
+sourcePath: _posts/2016-02-29-urban-planning-practice-in-nigeria.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-urban-planning-practice-in-nigeria.md
-published: true
 url: urban-planning-practice-in-nigeria/index.html
 _type: Article
 
