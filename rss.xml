@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[naija-estates]]></title>
         <description><![CDATA[naija-estates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/naija-estates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 20:41:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 20:41:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/naija-estates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[National Housing Fund scheme ]]></title>
+            <description><![CDATA[<article><h1>National Housing Fund scheme </h1><p>APPARENTLY disturbed that the National Housing Fund (NHF) is not achieving its long-term objectives and goal of providing affordable housing to Nigerians, mortgage operatives have advocated for restructuring of the scheme.The operatives, acting under that aegis of Mortgage Banking Association of Nigeria (MBAN) are demanding amongst others, the re-engineering of the scheme to deliver faster benefits to contributors and beneficiaries as well as reducing processing time from submission of applications to disbursement to about 120 days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdb1d362e2adefa00653567bc990e615fe975cb0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/naija-estates/national-housing-fund-scheme/index.html</link>
+            <guid isPermaLink="false">bc0dac9b-aa8f-4186-926c-1cdb53997b02</guid>
+            <pubDate>Mon, 29 Feb 2016 20:40:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Urban Planning Practice in Nigeria]]></title>
             <description><![CDATA[<article><h1>Urban Planning Practice in Nigeria</h1><p>Urban planning in Nigeria has been a piece meal approach, city wide planning is seldom and at National level there seem to be no appetite to prepare plans or guidelines for urban planning in the country. The planning legislation in Nigeria is very robust (Decree No. 12 of 1992) and needs plans and guidelines to implement the legislation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b015a48a0069c84e6437af7a68a9d04bfda362.jpg"></article>]]></description>
-            <link>undefinedurban-planning-practice-in-nigeria/index.html</link>
+            <link>https://thegrid.ai/naija-estates/urban-planning-practice-in-nigeria/index.html</link>
             <guid isPermaLink="false">866ac1bf-03eb-4972-ab5d-5a37e0220e58</guid>
             <pubDate>Mon, 29 Feb 2016 20:40:50 GMT</pubDate>
         </item>
