@@ -1,6 +1,6 @@
 name: naija-estates
 favicon: null
-layout_spectrum: 0.25248
+layout_spectrum: 0.4901
 typography_spectrum: 0.85644
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#8e9c47'
     - '#a75432'
   brandStrength: 0.5
-  lightness: 0.75
+  lightness: 0.6875
   saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
