@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: nigeria real estate
-datePublished: '2016-03-01T08:43:11.725Z'
-dateModified: '2016-03-01T08:39:49.303Z'
+datePublished: '2016-03-01T08:52:51.836Z'
+dateModified: '2016-03-01T08:51:10.485Z'
 title: Echo-Homes
 author: []
+sourcePath: _posts/2016-03-01-echo-homes.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-echo-homes.md
-published: true
 url: echo-homes/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Echo-Homes
