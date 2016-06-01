@@ -1,28 +1,31 @@
-name: naija-estates
-favicon: null
-layout_spectrum: 0.2720366809517145
 typography_spectrum: 0.65346
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#d89e5e'
+    - '#b16d2c'
+    - '#270b08'
+    - '#f6d6a3'
+    - '#fefefe'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.625
+  rhythmicContrast: 0.5
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#703030'
-    - '#2F343B'
-    - '#7E827A'
-    - '#E3CDA4'
-    - '#C77966'
-  brandStrength: 0.9348082260694355
-  lightness: 0.5043059983290732
-  saturation: 0.839885544963181
-  rhythmicContrast: 0.07179206050932407
+layout_spectrum: 0.26485
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2c935be-9cd4-4334-9205-e9ac99ceab24.jpg'
+name: naija-estates
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/938c3579-0fd2-4bbf-8794-4fe6db0f29a9.jpg'
 purpose: []
