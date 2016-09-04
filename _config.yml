@@ -32,6 +32,9 @@ navigation:
   - name: About us
     id: 2a09a4e1-5d86-4a34-856a-6091e9a669b2
     type: content
+  - name: tee
+    url: 'http://nigeriaworld.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/938c3579-0fd2-4bbf-8794-4fe6db0f29a9.jpg
 title: nigeria property news website
