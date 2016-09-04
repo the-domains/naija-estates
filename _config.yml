@@ -21,11 +21,14 @@ analytics:
   google: null
   facebook: null
   twitter: null
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2c935be-9cd4-4334-9205-e9ac99ceab24.jpg'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2c935be-9cd4-4334-9205-e9ac99ceab24.jpg
 name: naija-estates
 cta:
   domain: null
   bucket: null
   version: null
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/938c3579-0fd2-4bbf-8794-4fe6db0f29a9.jpg'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/938c3579-0fd2-4bbf-8794-4fe6db0f29a9.jpg
+title: nigeria property news website
 purpose: []
